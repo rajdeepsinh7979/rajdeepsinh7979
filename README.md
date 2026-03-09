@@ -82,7 +82,7 @@ https://github.com/rajdeepsinh7979?tab=repositories
 [rajdeepsinhj494@gmail.com](mailto:rajdeepsinhj494@gmail.com)
 
 💼 **LinkedIn**
-https://linkedin.com/in/rajdeepsinh-jadeja
+https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
