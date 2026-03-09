@@ -1,30 +1,101 @@
 <h1 align="center">Hi 👋, I'm Rajdeepsinh Jadeja</h1>
-<h3 align="center">Freelance Developer | C, C#, Python, Java, PHP | Laravel • ASP.NET • Android | 15+ Development Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepsinh7979&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepsinh7979" /> </p>
+<h3 align="center">
+Full Stack Developer | Freelancer | Software Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeepsinh7979" alt="rajdeepsinh7979" /></a> </p>
-
-- 🔭 I’m currently working on **full stack development.**
-
-- 🌱 I’m currently learning **Full Stack Development, Web Development, Android Development, and AI/ML.**
-
-- 👯 I’m looking to collaborate on **software development projects, learning new technologies, and building practical solutions in web and application development.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajdeepsinh7979?tab=repositories](https://github.com/rajdeepsinh7979?tab=repositories)
-
-- 💬 Ask me about **C, C#, Python, PHP, Laravel, ASP.NET, React, Next.js, Full Stack Development, Web Development, Android Development, and AI/ML.**
-
-- 📫 How to reach me **rajdeepsinhj494@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajdeepsinh jadeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeepsinh jadeja" height="30" width="40" /></a>
+<p align="center">
+Passionate about building real-world software applications and learning modern technologies 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Android+Developer;AI+ML+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepsinh7979&show_icons=true&locale=en&layout=compact" alt="rajdeepsinh7979" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepsinh7979&show_icons=true&locale=en" alt="rajdeepsinh7979" /></p>
+## 👨‍💻 About Me
+
+* 🎓 BCA Graduate passionate about **Software Development**
+* 💼 **Freelance Developer** working on real-world client projects
+* 🚀 Completed **3+ client projects** and **15+ academic/personal development projects**
+* 🔭 Currently working on **Full Stack Development Projects**
+* 🌱 Learning **Full Stack, Android Development, and AI/ML**
+* 👯 Open to collaborate on **Web Apps, Software Projects, and Open Source**
+* 💡 Interested in **Freelancing, Internships, and building scalable applications**
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,php,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,laravel,react,nextjs,nodejs,dotnet" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=android" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,linux" />
+</p>
+
+---
+
+# 📂 Projects
+
+🔗 All projects available here
+https://github.com/rajdeepsinh7979?tab=repositories
+
+### Some Projects
+
+* 🏥 Hospital Management System (Python)
+* 📦 Inventory Management System (C#)
+* 🅿️ Car Parking Management System
+* 💰 Investment Management System
+* 📱 Android Applications
+* 🌐 Web Applications using PHP & Laravel
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+[rajdeepsinhj494@gmail.com](mailto:rajdeepsinhj494@gmail.com)
+
+💼 **LinkedIn**
+https://linkedin.com/in/rajdeepsinh-jadeja
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rajdeepsinh-jadeja" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=rajdeepsinh7979&label=Profile%20Views&color=0e75b6&style=flat"/>
