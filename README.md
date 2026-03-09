@@ -89,7 +89,7 @@ https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360/
 # 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"style="padding-left:50px"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
 <a href="mailto:rajdeepsinhj494@gmail.com">
