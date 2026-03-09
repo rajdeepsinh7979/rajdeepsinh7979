@@ -82,14 +82,14 @@ https://github.com/rajdeepsinh7979?tab=repositories
 [rajdeepsinhj494@gmail.com](mailto:rajdeepsinhj494@gmail.com)
 
 💼 **LinkedIn**
-https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360/
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rajdeepsinh-jadeja" target="_blank">
+<a href="https://www.linkedin.com/in/rajdeepsinh-jadeja-7008b6360/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
