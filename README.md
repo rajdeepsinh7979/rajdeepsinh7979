@@ -55,7 +55,7 @@ Passionate about building real-world software applications and learning modern t
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux" />
+<img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
