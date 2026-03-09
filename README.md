@@ -37,7 +37,7 @@ Passionate about building real-world software applications and learning modern t
 ### 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,laravel,react,nextjs,nodejs,dotnet" />
+<img src="https://skillicons.dev/icons?i=html,css,laravel,dotnet" />
 </p>
 
 ### 📱 Mobile Development
