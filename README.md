@@ -9,7 +9,7 @@ Passionate about building real-world software applications and learning modern t
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;Full+Stack+Developer;Web+Developer;Android+Developer;AI+ML+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+/+ML+Engineer;Full+Stack+Developer;Web+Developer;Android+Developer;AI+ML+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
 </p>
 
 ---
