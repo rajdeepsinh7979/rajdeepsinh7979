@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajdeepsinh Jadeja</h1>
 
 <h3 align="center">
-Full Stack Developer | Freelancer | Software Developer
+Full Stack Developer | Freelancer | AI/ML Engineer
 </h3>
 
 <p align="center">
